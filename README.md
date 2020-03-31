@@ -1,7 +1,7 @@
 # Boston-Airbnb-Data-Analysis
 
 ## Project Motivation
-This is a data science project that uses Boston Airbnb data to analyze how Boston Airbnb hosts can earn more money from their properties? The analysis process uses the CRISP-DM method. The following business questions were answered during the data analysis:
+This is a data science project that uses Airbnb Open Source data to analyze how Boston Airbnb hosts can earn more money from their properties? The analysis process uses the CRISP-DM method. The following business questions were answered during the data analysis:
 
 1.	Are neighborhoods in high demand the least expensive neighborhoods?
 2.	How can you become a superhost? What are the requirements to earn a superhost status?
